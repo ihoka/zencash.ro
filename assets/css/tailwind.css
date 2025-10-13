@@ -1,13 +1,183 @@
 ---
 ---
-@import "tailwindcss";
+@import "tailwindcss/preflight";
+@import "tailwindcss/utilities";
 
-@theme {
-  --color-zen-dark: #0a0a0a;
-  --color-zen-gray: #1a1a1a;
+/* Root variables for theme colors */
+:root {
+    /* Light theme colors */
+    --bg-primary: #ffffff;
+    --bg-secondary: #f3f4f6;
+    --text-primary: #111827;
+    --text-secondary: #4b5563;
+    --accent: #dc2626;
+    --border: rgba(0, 0, 0, 0.1);
+    --shadow: rgba(0, 0, 0, 0.1);
+
+    /* Component-specific colors */
+    --code-bg: #e5e7eb;
+    --code-text: #dc2626;
+    --glass-bg: rgba(0, 0, 0, 0.05);
+    --glass-border: rgba(0, 0, 0, 0.1);
+    --glass-hover: rgba(0, 0, 0, 0.1);
 }
 
+/* Dark theme colors - red/white on black */
+@media (prefers-color-scheme: dark) {
+    :root {
+        --bg-primary: #000000;
+        --bg-secondary: rgba(255, 255, 255, 0.05);
+        --text-primary: #ffffff;
+        --text-secondary: #9ca3af;
+        --accent: #ff0000;
+        --border: rgba(255, 255, 255, 0.2);
+        --shadow: rgba(0, 0, 0, 0.3);
+
+        /* Component-specific colors */
+        --code-bg: #1a1a1a;
+        --code-text: #ff0000;
+        --glass-bg: rgba(255, 255, 255, 0.05);
+        --glass-border: rgba(255, 255, 255, 0.1);
+        --glass-hover: rgba(255, 255, 255, 0.15);
+    }
+}
+
+/* Base background colors with monotype font */
 body {
-  background-color: rgb(17 24 39);
-  color: rgb(243 244 246);
+    background-color: var(--bg-primary);
+    color: var(--text-primary);
+    font-family: 'Courier New', Courier, monospace;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Markdown-like heading styles */
+h1 {
+    font-size: 2rem;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    color: var(--text-primary);
+    margin-bottom: 1rem;
+}
+
+h1::before {
+    content: '# ';
+    color: var(--accent);
+    margin-right: 0.25rem;
+}
+
+h2 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 1.5rem;
+    margin-bottom: 0.75rem;
+}
+
+h2::before {
+    content: '## ';
+    color: var(--accent);
+}
+
+h3 {
+    font-size: 1.25rem;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+h3::before {
+    content: '### ';
+    color: var(--accent);
+}
+
+h4 {
+    font-size: 1.1rem;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 0.75rem;
+    margin-bottom: 0.5rem;
+}
+
+h4::before {
+    content: '#### ';
+    color: var(--accent);
+}
+
+/* Markdown-like list styles */
+ul {
+    list-style: none;
+    padding-left: 2rem;
+    margin: 1rem 0;
+}
+
+ul li {
+    margin: 0.25rem 0;
+    text-indent: -2rem;
+    padding-left: 2rem;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ul li::before {
+    content: "* ";
+    margin-right: 0.5rem;
+    color: var(--accent);
+    font-weight: bold;
+}
+
+/* Markdown-like link styles */
+a {
+    color: var(--text-primary);
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    transition: opacity 0.3s ease;
+}
+
+a:hover {
+    opacity: 0.8;
+}
+
+a::before {
+    content: "[";
+    color: var(--accent);
+}
+
+a::after {
+    content: "]";
+    color: var(--accent);
+}
+
+/* Code styling */
+code {
+    background-color: var(--code-bg);
+    color: var(--code-text);
+    padding: 0.125rem 0.25rem;
+    border-radius: 0.25rem;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+code::before {
+    content: "`";
+}
+
+code::after {
+    content: "`";
+}
+
+/* Strong and emphasis */
+strong {
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+em {
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/* Paragraph spacing */
+p {
+    margin-bottom: 1em;
+    font-family: 'Courier New', Courier, monospace;
 }
