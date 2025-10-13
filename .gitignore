@@ -1,0 +1,30 @@
+# Jekyll
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+
+# Ruby
+*.gem
+*.rbc
+.bundle/
+.config
+coverage/
+vendor/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp
+*.swo
+*~
+
+# Environment
+.env
+.env.*
+
+# Node modules (if using npm for Tailwind)
+node_modules/

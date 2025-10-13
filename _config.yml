@@ -1,0 +1,29 @@
+# Site settings
+title: ZenCash
+description: Crypto trading platform
+url: "https://zencash.ro"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Plugins
+plugins:
+  - jekyll-tailwindcss
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - mise.toml
+  - README.md
+  - vendor/
+  - .bundle/
+  - .git/
+  - .ruby-lsp/
+  - node_modules/
+
+# Tailwind CSS - plugin processes automatically
