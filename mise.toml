@@ -1,0 +1,23 @@
+[tools]
+claude = "latest"
+gh = "latest"
+lazygit = "latest"
+bun = "latest"
+
+[tasks."install"]
+description = "Install missing dependencies"
+run = "bundle check || bundle install"
+
+[tasks."dev"]
+description = "Start Jekyll development server with live reload"
+run = "bundle exec jekyll serve --livereload --open-url"
+depends = ["install"]
+
+[tasks."build"]
+description = "Build Jekyll site for production"
+run = "bundle exec jekyll build"
+depends = ["install"]
+
+[tasks."lazygit"]
+description = "Start lazygit"
+run = "lazygit"
