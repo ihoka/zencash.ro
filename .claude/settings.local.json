@@ -3,7 +3,8 @@
     "allow": [
       "WebFetch(domain:zencash.ro)",
       "Bash(bundle exec jekyll:*)",
-      "Bash(cat:*)"
+      "Bash(cat:*)",
+      "WebSearch"
     ],
     "deny": [],
     "ask": []
