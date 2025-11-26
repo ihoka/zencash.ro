@@ -28,3 +28,20 @@ Thumbs.db
 
 # Node modules (if using npm for Tailwind)
 node_modules/
+
+# Temporary files and debugging
+/temp/
+temp/
+**/temp/
+debug-*
+test-*
+analyze-*
+*-debug.*
+*.debug
+
+# Claude settings
+.claude/settings.local.json
+
+# Don't ignore reports directory
+!reports/
+!reports/**
