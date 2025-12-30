@@ -25,5 +25,7 @@ exclude:
   - .git/
   - .ruby-lsp/
   - node_modules/
+  - reports/
+  - temp/
 
 # Tailwind CSS - plugin processes automatically

@@ -58,6 +58,11 @@ All commands are run through mise, which handles dependency installation automat
 - **Git UI**: `mise run lazygit`
   - Opens lazygit terminal UI
 
+### JavaScript Runtime
+
+- **Use `bun` for JavaScript/TypeScript**: Always use `bun` instead of `node` for running JS/TS scripts
+  - Example: `bun script.js` instead of `node script.js`
+
 ### Direct Jekyll Commands
 
 If needed, you can run Jekyll commands directly:

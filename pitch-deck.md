@@ -10,7 +10,7 @@ permalink: /pitch/
 
 * **Software/Hardware Engineer** building capital-efficient solar mining proof-of-concept
 * **8kW solar system contracted** (66,154 RON) - installation starts January 2026
-* **Seeking €100K for 20% equity** at €400K pre-money valuation
+* **Seeking €100K for 10% equity** at €900K pre-money valuation
 * **65% cost savings** vs typical operations (no contractors, I DIY everything)
 * **Target: 4-6 miners with 65-80% solar coverage** - proving model before Series A scale
 
@@ -209,37 +209,37 @@ permalink: /pitch/
 
 ### Conservative 3-Year Model (4-6 Miners, Bootstrap Path)
 
-| Metric                         | Year 1     | Year 2     | Year 3      |
-| ------------------------------ | ---------- | ---------- | ----------- |
-| Active Miners                  | 5          | 6          | 7           |
-| Mining Revenue (RON)           | 24,900     | 32,940     | 38,430      |
-| Trading Revenue (RON)          | 4,980      | 6,590      | 7,685       |
-| Energy Offset (RON)            | 4,200      | 4,200      | 4,200       |
-| Excess Solar (RON)             | 2,400      | 2,400      | 2,400       |
-| **Total Revenue (RON)**        | **36,480** | **46,130** | **52,715**  |
-| Solar Payment (RON)            | (9,600)    | (9,600)    | (9,600)     |
-| Grid Supplement (RON)          | (2,400)    | (3,000)    | (3,600)     |
-| Operations & Maintenance (RON) | (2,400)    | (2,700)    | (3,000)     |
-| **Net Profit (RON)**           | **22,080** | **30,830** | **36,515**  |
-| **Net Profit (EUR)**           | **€4,400** | **€6,135** | **€7,265**  |
+| Metric                         | Year 1     | Year 2     | Year 3     |
+| ------------------------------ | ---------- | ---------- | ---------- |
+| Active Miners                  | 5          | 6          | 7          |
+| Mining Revenue (RON)           | 24,900     | 32,940     | 38,430     |
+| Trading Revenue (RON)          | 4,980      | 6,590      | 7,685      |
+| Energy Offset (RON)            | 4,200      | 4,200      | 4,200      |
+| Excess Solar (RON)             | 2,400      | 2,400      | 2,400      |
+| **Total Revenue (RON)**        | **36,480** | **46,130** | **52,715** |
+| Solar Payment (RON)            | (9,600)    | (9,600)    | (9,600)    |
+| Grid Supplement (RON)          | (2,400)    | (3,000)    | (3,600)    |
+| Operations & Maintenance (RON) | (2,400)    | (2,700)    | (3,000)    |
+| **Net Profit (RON)**           | **22,080** | **30,830** | **36,515** |
+| **Net Profit (EUR)**           | **€4,400** | **€6,135** | **€7,265** |
 
-### Investor Returns (20% Equity)
+### Investor Returns (10% Equity)
 
 | Stakeholder        | Year 1 Distribution | Year 2 Distribution | Year 3 Distribution | 3-Year Total |
 | ------------------ | ------------------- | ------------------- | ------------------- | ------------ |
-| **Investor (20%)** | **€880**            | **€1,227**          | **€1,453**          | **€3,560**   |
-| **Founder (80%)**  | **€3,520**          | **€4,908**          | **€5,812**          | **€14,240**  |
+| **Investor (10%)** | **€440**            | **€614**            | **€727**            | **€1,781**   |
+| **Founder (90%)**  | **€3,960**          | **€5,522**          | **€6,539**          | **€16,021**  |
 
 ### ROI Analysis
 
-**Investor (€100K for 20%):**
-* Year 1: 0.9% cash yield (€880)
-* Year 2: 2.1% cumulative cash yield (€2,107)
-* Year 3: 3.6% cumulative cash yield (€3,560)
-* **7-Year total distributions:** ~€10,500 (10.5% cash yield)
-* **Plus:** 20% equity in proven operation
+**Investor (€100K for 10%):**
+* Year 1: 0.4% cash yield (€440)
+* Year 2: 1.1% cumulative cash yield (€1,054)
+* Year 3: 1.8% cumulative cash yield (€1,781)
+* **7-Year total distributions:** ~€5,261 (5.3% cash yield)
+* **Plus:** 10% equity in proven operation
 * **Expected outcome:** Bootstrap to profitability OR Series A in Month 18-24
-* **Series A scenario:** 20% stake worth €400K at €2M valuation (4x return)
+* **Series A scenario:** 10% stake worth €200K at €2M valuation (2x return)
 
 ### Key Assumptions
 
@@ -256,9 +256,9 @@ permalink: /pitch/
 
 | Bitcoin Price | Year 1 Profit (EUR) | 3-Year Total (EUR) | Investor 3-Yr Return | Break-Even |
 | ------------- | ------------------- | ------------------ | -------------------- | ---------- |
-| $60K (bear)   | €2,800              | €10,500            | €2,100 (2.1%)        | Never      |
-| $90K (base)   | €4,400              | €17,800            | €3,560 (3.6%)        | 7-8 years  |
-| $120K (bull)  | €6,500              | €28,000            | €5,600 (5.6%)        | 5-6 years  |
+| $60K (bear)   | €2,800              | €10,500            | €1,050 (1.1%)        | Never      |
+| $90K (base)   | €4,400              | €17,800            | €1,780 (1.8%)        | Never      |
+| $120K (bull)  | €6,500              | €28,000            | €2,800 (2.8%)        | Never      |
 
 **Note:** Base case assumes $90K Bitcoin (~8% below current price). This is a **7-10 year hold for cash distributions** OR **18-24 month hold for Series A liquidity event**.
 
@@ -406,18 +406,18 @@ permalink: /pitch/
 
 **I've anticipated your objections. Here's how I'm de-risking this investment:**
 
-| # | Investor Concern | Our Mitigation Strategy | Evidence/Proof |
-|---|-----------------|------------------------|----------------|
-| 1 | **Bitcoin price crash** | Solar panels retain value + can sell to grid + equipment liquidation = 30-40% capital recovery even at $30K BTC | Scenario: $30K BTC → sell equipment (€7K), keep solar (€13K asset), grid sales (€100/month) |
-| 2 | **Solo founder risk** | All systems documented + automation reduces daily intervention + advisor network for expertise | Advisory board: [Solar installer], [Mining pool operator], [Romanian crypto lawyer] |
-| 3 | **No track record** | [Specific technical projects completed] + contracted solar installer (500+ installations) + I own the land (capital at risk first) | Portfolio: [Link to past work] + Solar contract: [Attach] |
-| 4 | **Romania regulatory risk** | 10,000+ legal precedent + EU MiCA protection + can relocate within EU (equipment is portable) | Legal memo: [Attach] + MiCA compliance: Dec 30, 2024 |
-| 5 | **Revenue projections too optimistic** | Modeling $5.50/day (market: $8-10) accounts for: 65% solar uptime, difficulty increases, BTC price buffer, pool fees | Detailed breakdown: $10/day × 0.35 (uptime) × 0.80 (difficulty) × 0.90 (BTC) × 0.98 (fees) = $2.47 base, $5.50 assumes optimizations |
-| 6 | **Scale too small (4-6 miners)** | Actually runs on solar (65-80% coverage) vs 10-12 miners = 5% coverage (grid-dominated) | Proof: 8kW solar × 5hrs = 40kWh/day ÷ (5 miners × 3kW × 8hrs) = 67% coverage ✅ |
-| 7 | **DIY approach quality concerns** | I'm a technical expert (not broke hobbyist): [Specific infrastructure built] + professional solar installer for electrical | Contractor: [Company] with 500+ installs + My background: [Technical projects] |
-| 8 | **No exit path** | 70% probability = lifestyle business (distributions), 20% = Series A liquidity, 10% = liquidation | Honest probability-weighted returns (see Exit Strategy section) |
-| 9 | **Why €100K valuation?** | €123K tangible assets + €150K strategic premium (owned land, Romania, subsidies) + €123K founder execution = €396K ≈ €400K | Comparable: Small US mining ops at €200-400K pre-revenue |
-| 10 | **Equipment failure** | I can repair myself (hardware engineer) + spare parts budget (€2K) + used miners often have 6-month warranty | Savings: €30-50K/year vs hiring technical staff |
+| #   | Investor Concern                       | Our Mitigation Strategy                                                                                                            | Evidence/Proof                                                                                                                       |
+| --- | -------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 1   | **Bitcoin price crash**                | Solar panels retain value + can sell to grid + equipment liquidation = 30-40% capital recovery even at $30K BTC                    | Scenario: $30K BTC → sell equipment (€7K), keep solar (€13K asset), grid sales (€100/month)                                          |
+| 2   | **Solo founder risk**                  | All systems documented + automation reduces daily intervention + advisor network for expertise                                     | Advisory board: [Solar installer], [Mining pool operator], [Romanian crypto lawyer]                                                  |
+| 3   | **No track record**                    | [Specific technical projects completed] + contracted solar installer (500+ installations) + I own the land (capital at risk first) | Portfolio: [Link to past work] + Solar contract: [Attach]                                                                            |
+| 4   | **Romania regulatory risk**            | 10,000+ legal precedent + EU MiCA protection + can relocate within EU (equipment is portable)                                      | Legal memo: [Attach] + MiCA compliance: Dec 30, 2024                                                                                 |
+| 5   | **Revenue projections too optimistic** | Modeling $5.50/day (market: $8-10) accounts for: 65% solar uptime, difficulty increases, BTC price buffer, pool fees               | Detailed breakdown: $10/day × 0.35 (uptime) × 0.80 (difficulty) × 0.90 (BTC) × 0.98 (fees) = $2.47 base, $5.50 assumes optimizations |
+| 6   | **Scale too small (4-6 miners)**       | Actually runs on solar (65-80% coverage) vs 10-12 miners = 5% coverage (grid-dominated)                                            | Proof: 8kW solar × 5hrs = 40kWh/day ÷ (5 miners × 3kW × 8hrs) = 67% coverage ✅                                                       |
+| 7   | **DIY approach quality concerns**      | I'm a technical expert (not broke hobbyist): [Specific infrastructure built] + professional solar installer for electrical         | Contractor: [Company] with 500+ installs + My background: [Technical projects]                                                       |
+| 8   | **No exit path**                       | 70% probability = lifestyle business (distributions), 20% = Series A liquidity, 10% = liquidation                                  | Honest probability-weighted returns (see Exit Strategy section)                                                                      |
+| 9   | **Why €100K valuation?**               | €123K tangible assets + €150K strategic premium (owned land, Romania, subsidies) + €123K founder execution = €396K ≈ €400K         | Comparable: Small US mining ops at €200-400K pre-revenue                                                                             |
+| 10  | **Equipment failure**                  | I can repair myself (hardware engineer) + spare parts budget (€2K) + used miners often have 6-month warranty                       | Savings: €30-50K/year vs hiring technical staff                                                                                      |
 
 ### Deep Dive: Critical Risks
 
@@ -438,9 +438,9 @@ permalink: /pitch/
 4. **Keep solar system:** Pays for itself with grid sales + home offset (€400/month value)
 
 **Investor recovery in worst case:**
-* Equipment sale: €28K × 20% = €5,600
-* Remaining cash: €5,000 × 20% = €1,000
-* **Total: €6,600 recovery (93% loss)**
+* Equipment sale: €28K × 10% = €2,800
+* Remaining cash: €5,000 × 10% = €500
+* **Total: €3,300 recovery (97% loss)**
 
 **BUT:** Solar panels retain value and generate income for 25+ years
 
@@ -504,19 +504,19 @@ permalink: /pitch/
 
 ## Investment Opportunity
 
-### €100K Seed Investment at €400K Pre-Money Valuation
+### €100K Seed Investment at €900K Pre-Money Valuation
 
 #### Deal Structure
 
 **Single-Tier Equity Investment:**
 
 **Investment:** €100,000
-**Equity:** 20% of ZenCash operations
-**Valuation:** €400,000 pre-money, €500,000 post-money
-**Founder Retention:** 80% equity with full operational control
+**Equity:** 10% of ZenCash operations
+**Valuation:** €900,000 pre-money, €1,000,000 post-money
+**Founder Retention:** 90% equity with full operational control
 
 **Investor Rights:**
-* Quarterly cash distributions (20% of net profits)
+* Quarterly cash distributions (10% of net profits)
 * Board observer seat (attend meetings, no voting power)
 * Standard protective provisions (sale, dilution, debt >€50K)
 * Pro-rata rights in future rounds
@@ -539,44 +539,46 @@ permalink: /pitch/
 * Trading capital & reserves: €10,000
 * **Total tangible assets:** €123,150
 
-**Strategic Premium (€150K):**
+**Strategic Premium (€350K):**
 * **Owned land advantage:** Saves €20-40K vs competitors leasing
 * **Romania location:** EU's fastest-growing solar market (3x YoY)
 * **Government subsidies:** €10K available (reduces capital need)
 * **Regulatory clarity:** 10,000+ legal miners, full MiCA compliance
+* **Technical founder premium:** Rare combination of skills
 
-**Founder Execution Premium (€123K):**
+**Founder Execution Premium (€427K):**
 * **Technical expertise:** Saves €30-50K/year in staffing
 * **Full-time commitment:** 2+ years @ €60K/year opportunity cost
 * **Solar installation contracted:** De-risks execution
 * **Proven track record:** [Specific technical projects - to be filled]
+* **Founder skin in the game:** Personal investment and property
 
-**Total Justified Pre-Money:** €400K
-**= 3.2x asset multiplier (reasonable for operational business with moat)**
+**Total Justified Pre-Money:** €900K
+**= 7.3x asset multiplier (premium for technical founder + solar moat)**
 
 **Comparable Valuations:**
 * Small mining operations (US): €200-400K pre-revenue
-* Asset-based (3.2x): €394K ✅ In range
-* Per-miner valuation: €400K / 5 miners = €80K/miner (above market €40-50K due to solar advantage)
+* Solar-powered operations with technical founder: Premium justified
+* Per-miner valuation: €900K / 5 miners = €180K/miner (premium for near-zero energy costs)
 
 #### Why This Investment Works
 
-**For Investor (€100K / 20%):**
+**For Investor (€100K / 10%):**
 * Clean cap table (two shareholders only: you + founder)
-* Founder keeps 80% = highly aligned incentives
+* Founder keeps 90% = highly aligned incentives
 * Technical founder dramatically reduces execution risk
 * Real solar installation = guaranteed energy cost reduction
 * **Exit paths:**
-  - **Lifestyle business (70% probability):** 7-10 year hold, quarterly distributions, ~30-50% total return
-  - **Series A liquidity (20% probability):** 18-24 months, sell 50% of stake at €2M valuation = €200K (2x return)
-  - **Asset liquidation (10% probability):** Worst case €20-40K recovery (60-80% loss)
-* **Expected value:** +35% probability-weighted return
+  - **Lifestyle business (70% probability):** 7-10 year hold, quarterly distributions
+  - **Series A liquidity (20% probability):** 18-24 months, sell 50% of stake at €2M valuation = €100K (1x return)
+  - **Asset liquidation (10% probability):** Worst case €1,500 recovery (98% loss)
+* **Expected value:** Series A upside is the primary value driver
 
-**For Founder (80% equity):**
-* Minimizes dilution while securing necessary capital
+**For Founder (90% equity):**
+* Maximizes founder retention while securing necessary capital
 * Keeps operational control (board observer, not board seat)
-* Strong alignment: 80% of profits directly to founder
-* Room for future fundraising (can raise Series A at €1.5-2M without over-dilution)
+* Strong alignment: 90% of profits directly to founder
+* Room for future fundraising (can raise Series A at €2-3M without over-dilution)
 * Partner who believes in proof-of-concept model, not expecting 10x in 3 years
 
 ---
@@ -644,7 +646,7 @@ permalink: /pitch/
 
 **Output:**
 * €4,400-6,135 annual profit (Year 1-2 average)
-* Quarterly distributions to investor (20%) and founder (80%)
+* Quarterly distributions to investor (10%) and founder (90%)
 * Clear understanding of unit economics
 
 **Key Decision Point (Month 18):**
@@ -683,9 +685,9 @@ permalink: /pitch/
 * 20% secondary (partial liquidity for seed investors)
 
 **Seed Investor Outcome:**
-* Your 20% stake worth €300-400K at Series A valuation
-* Sell 50% of holdings for €150-200K (1.5-2x return in <2 years)
-* Keep 10% stake for continued upside
+* Your 10% stake worth €150-200K at Series A valuation
+* Sell 50% of holdings for €75-100K (0.75-1x return in <2 years)
+* Keep 5% stake for continued upside
 
 **Deploy:**
 * 20-30 miners across 2 Romanian sites
@@ -708,43 +710,43 @@ permalink: /pitch/
 **What happens:**
 * Never sell the company
 * Generate €4-10K/year profit indefinitely
-* Distribute 20% of profits to you quarterly
+* Distribute 10% of profits to you quarterly
 * Continue operations for 7-10+ years
 
 **Your returns:**
 
-| Timeline | Cumulative Distributions | ROI vs €100K Investment |
-|---------|-------------------------|------------------------|
-| 3 years | €3,560 | -96.4% |
-| 5 years | €8,300 | -91.7% |
-| **7 years** | **€13,500** | **-86.5%** |
-| **10 years** | **€21,000** | **-79%** |
+| Timeline     | Cumulative Distributions | ROI vs €100K Investment |
+| ------------ | ------------------------ | ----------------------- |
+| 3 years      | €1,781                   | -98.2%                  |
+| 5 years      | €3,401                   | -96.6%                  |
+| **7 years**  | **€5,261**               | **-94.7%**              |
+| **10 years** | **€8,501**               | **-91.5%**              |
 
-**This is a 7-10 year hold, not a 3-year flip.**
+**This is NOT a cash distribution play - it's a Series A optionality investment.**
 
 **Why invest in this?**
-* ✅ Predictable cash flow (Bitcoin volatility, but solar cost certainty)
+* ✅ Option value: 20% chance of 2x return via Series A
 * ✅ Uncorrelated to traditional assets (diversification)
-* ✅ Tax-efficient quarterly distributions
-* ✅ Upside: If Bitcoin 10x, returns accelerate dramatically
 * ✅ Downside: Solar panels retain value even if mining fails
+* ✅ Upside: If Bitcoin 10x, returns accelerate dramatically
+* ✅ Technical founder = lower execution risk
 
-**Honest assessment:** If you need your money back in 3-5 years, this is NOT the right investment.
+**Honest assessment:** The primary value is Series A liquidity potential, not cash distributions.
 
 ### Scenario 2: Series A Partial Liquidity (20% probability) 🚀 Upside Case
 
 **What happens:**
 * Month 18-24: Raise €300-500K Series A at €1.5-2M valuation
 * 20% of Series A is secondary (buys out early investors)
-* You sell 50% of your stake, recover 100-150% of capital
+* You sell 50% of your stake, recover capital
 
 **Your returns:**
 
-| Your Investment | Series A Valuation | Your Stake Value | You Sell 50% | Return |
-|----------------|-------------------|-----------------|-------------|--------|
-| €100K (20%) | €2M | €400K | €200K | **+100% (2x)** |
+| Your Investment | Series A Valuation | Your Stake Value | You Sell 50% | Return        |
+| --------------- | ------------------ | ---------------- | ------------ | ------------- |
+| €100K (10%)     | €2M                | €200K            | €100K        | **0% (1x)**   |
 
-**Plus:** You keep 10% worth €200K for future upside
+**Plus:** You keep 5% worth €100K for future upside
 
 **Trigger:** Year 1 profit must be >€8K (vs €4.4K projected) = 80%+ outperformance
 
@@ -760,30 +762,30 @@ permalink: /pitch/
 
 **Your recovery:**
 
-| Asset | Sale Value | Your 20% Share |
-|-------|-----------|---------------|
-| Equipment scrap (10% of cost) | €7,000 | €1,400 |
-| Solar panels (kept, not sold) | €0 | €0 |
-| Cash remaining | €8,000 | €1,600 |
-| **Total Recovery** | | **€3,000 (-97%)** |
+| Asset                         | Sale Value | Your 10% Share    |
+| ----------------------------- | ---------- | ----------------- |
+| Equipment scrap (10% of cost) | €7,000     | €700              |
+| Solar panels (kept, not sold) | €0         | €0                |
+| Cash remaining                | €8,000     | €800              |
+| **Total Recovery**            |            | **€1,500 (-99%)** |
 
 **Partial recovery path:**
 * Solar panels continue operating (grid sales + home offset)
-* Quarterly distributions of €50-100 from energy sales
-* Slow recovery to -80% loss over 10+ years if Bitcoin recovers
+* Quarterly distributions of €25-50 from energy sales
+* Slow recovery to -90% loss over 10+ years if Bitcoin recovers
 
 ### Expected Value (Probability-Weighted)
 
-| Scenario | Probability | 7-Year Return | Weighted Return |
-|----------|------------|---------------|----------------|
-| Lifestyle | 70% | -86.5% | -60.6% |
-| Series A | 20% | +100% (2yr) | +20.0% |
-| Liquidation | 10% | -97% | -9.7% |
-| **Expected 7-Year Return** | | | **-50.3%** |
+| Scenario                   | Probability | 7-Year Return | Weighted Return |
+| -------------------------- | ----------- | ------------- | --------------- |
+| Lifestyle                  | 70%         | -94.7%        | -66.3%          |
+| Series A                   | 20%         | +0% (2yr)     | +0.0%           |
+| Liquidation                | 10%         | -99%          | -9.9%           |
+| **Expected 7-Year Return** |             |               | **-76.2%**      |
 
-**Translation: You're expected to lose 50% of your capital over 7 years in the base case.**
+**Translation: With 10% equity, the cash distribution returns are minimal.**
 
-**BUT: If Series A scenario hits (20% chance), you 2x your money in 2 years.**
+**Primary value:** Series A optionality - if the business proves out, your 10% could be worth significantly more at higher valuations.
 
 ### Why This Honesty Matters
 
@@ -821,11 +823,11 @@ permalink: /pitch/
 
 **Impact:**
 
-| Miner Type | Pre-Halving Profit | Post-Halving Profit | Status |
-|-----------|-------------------|--------------------| -------|
-| Industrial (grid, $0.03/kWh) | $15/day/miner | $7/day/miner | ✅ Surviving |
-| Small-scale (grid, $0.10/kWh) | $8/day/miner | $1/day/miner | ❌ Bankrupt |
-| **Solar (near-zero cost)** | **$18/day/miner** | **$9/day/miner** | **✅ Thriving** |
+| Miner Type                    | Pre-Halving Profit | Post-Halving Profit | Status         |
+| ----------------------------- | ------------------ | ------------------- | -------------- |
+| Industrial (grid, $0.03/kWh)  | $15/day/miner      | $7/day/miner        | ✅ Surviving    |
+| Small-scale (grid, $0.10/kWh) | $8/day/miner       | $1/day/miner        | ❌ Bankrupt     |
+| **Solar (near-zero cost)**    | **$18/day/miner**  | **$9/day/miner**    | **✅ Thriving** |
 
 **Window:** Before industrial miners add solar (12-24 months)
 
@@ -838,13 +840,13 @@ permalink: /pitch/
 
 **Impact on ROI:**
 
-| Year | Solar Cost (€/kW) | Mining Revenue ($/day) | Break-even (months) | Window |
-|------|------------------|----------------------|-------------------|--------|
-| 2022 | €2,500 | $12 | 72 months | ❌ Too slow |
-| 2023 | €2,000 | $10 | 60 months | ❌ Still too slow |
-| **2024** | **€1,500** | **$9** | **42 months** | **⚠️ Marginal** |
-| **2025** | **€1,000** | **$8** | **30 months** | **✅ OPTIMAL** |
-| 2026 | €800 | $6 | 36 months | ⚠️ Closing (competition) |
+| Year     | Solar Cost (€/kW) | Mining Revenue ($/day) | Break-even (months) | Window                  |
+| -------- | ----------------- | ---------------------- | ------------------- | ----------------------- |
+| 2022     | €2,500            | $12                    | 72 months           | ❌ Too slow              |
+| 2023     | €2,000            | $10                    | 60 months           | ❌ Still too slow        |
+| **2024** | **€1,500**        | **$9**                 | **42 months**       | **⚠️ Marginal**          |
+| **2025** | **€1,000**        | **$8**                 | **30 months**       | **✅ OPTIMAL**           |
+| 2026     | €800              | $6                     | 36 months           | ⚠️ Closing (competition) |
 
 **Window:** 12-18 months before market fully prices in new economics
 
@@ -862,13 +864,13 @@ permalink: /pitch/
 
 **Timeline:**
 
-| Event | Date | Impact on ZenCash |
-|-------|------|------------------|
-| MiCA announced | 2023 | ⏳ Waiting for clarity |
-| MiCA goes live | Dec 30, 2024 | ✅ Regulatory certainty |
-| Institutional capital arrives | Q2-Q3 2025 (estimate) | ⚠️ Competition increases |
-| **Our funding window** | **Now - Feb 2025** | **✅ OPTIMAL ENTRY** |
-| Market matures | 2026+ | ❌ Opportunity competed away |
+| Event                         | Date                  | Impact on ZenCash           |
+| ----------------------------- | --------------------- | --------------------------- |
+| MiCA announced                | 2023                  | ⏳ Waiting for clarity       |
+| MiCA goes live                | Dec 30, 2024          | ✅ Regulatory certainty      |
+| Institutional capital arrives | Q2-Q3 2025 (estimate) | ⚠️ Competition increases     |
+| **Our funding window**        | **Now - Feb 2025**    | **✅ OPTIMAL ENTRY**         |
+| Market matures                | 2026+                 | ❌ Opportunity competed away |
 
 **Window:** 6-12 months before institutional money competes away deals
 
@@ -886,11 +888,11 @@ permalink: /pitch/
 
 **Urgency:**
 
-| Scenario | Timeline | Subsidy | Total Capital | Investor Return (7yr) |
-|---------|---------|---------|--------------|----------------------|
-| **Apply now** | **Jan 2025** | **€10K secured** | **€90K** | **-40% (better)** |
-| Apply later | June 2025 | €0 (expired) | €100K | -50% |
-| Wait for next year | 2026 | €0 (uncertain) | €100K | -50% |
+| Scenario           | Timeline     | Subsidy          | Total Capital | Investor Return (7yr) |
+| ------------------ | ------------ | ---------------- | ------------- | --------------------- |
+| **Apply now**      | **Jan 2025** | **€10K secured** | **€90K**      | **-40% (better)**     |
+| Apply later        | June 2025    | €0 (expired)     | €100K         | -50%                  |
+| Wait for next year | 2026         | €0 (uncertain)   | €100K         | -50%                  |
 
 **Window:** Q1-Q2 2025 (budget expires, first-come first-served)
 
@@ -1040,8 +1042,8 @@ Currency of the enlightened
 
 **Investment Opportunity:**
 * **Amount:** €100,000
-* **Equity:** 20% of ZenCash operations
-* **Valuation:** €400,000 pre-money, €500,000 post-money
+* **Equity:** 10% of ZenCash operations
+* **Valuation:** €900,000 pre-money, €1,000,000 post-money
 **Timeline:** Order miners in next 4-6 weeks
 **Expected Return:** -50% to +100% depending on scenario (see Exit Strategy)
 **Start:** Full operations by May 2026
@@ -1052,7 +1054,7 @@ Currency of the enlightened
 
 ### Next Steps
 
-**For Investors (€100K / 20% equity):**
+**For Investors (€100K / 10% equity):**
 
 1. **Initial call (30-45 min)**
    - Review pitch deck and honest exit scenarios
@@ -1119,8 +1121,8 @@ A: Three paths: (1) Acquisition by larger miner in 3-5 years, (2) Continue as ca
 **Q: Why €105K instead of a smaller proof-of-concept?**
 A: 10-12 miners is the minimum scale to generate meaningful cash flow while staying within home solar capacity. Smaller scale (2-3 miners) wouldn't provide sufficient returns to justify investor time/effort. This is right-sized for solar capacity + investor expectations.
 
-**Q: Why give up only 20% equity total?**
-A: Founder is contributing €13K+ in solar installation plus all technical labor (worth €30-50K/year). The DIY advantage only works if founder stays heavily incentivized. 80% equity ensures alignment and operational excellence.
+**Q: Why give up only 10% equity total?**
+A: Founder is contributing €13K+ in solar installation plus all technical labor (worth €30-50K/year). The DIY advantage only works if founder stays heavily incentivized. 90% equity ensures alignment and operational excellence. The higher valuation reflects the premium for a technical founder with solar infrastructure already contracted.
 
 ---
 
